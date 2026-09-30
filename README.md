@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jason Bernardus Elias 👋
 
 ### 🚀 Software & Hardware / IoT Developer
 
