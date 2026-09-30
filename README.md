@@ -35,15 +35,6 @@ I build end-to-end systems spanning hardware prototypes, embedded IoT, local AI 
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="165"/>
-</div>
-
----
-
 ### 📫 Connect With Me
 
 - **Email**: [jbernardus08@gmail.com](mailto:jbernardus08@gmail.com)
