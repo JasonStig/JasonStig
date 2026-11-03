@@ -12,10 +12,8 @@ I build end-to-end solutions spanning embedded IoT hardware, data-driven softwar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=micropython&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Hardware & Microcontrollers**
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-3B%20%7C%204B-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
